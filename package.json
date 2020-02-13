@@ -1,0 +1,16 @@
+{
+  "name": "bankys-website",
+  "version": "1.0.0",
+  "description": "Kólé's Collections Website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mikeypy.github.io/Koles-Collections",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
